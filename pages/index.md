@@ -1,17 +1,13 @@
 ---
-title: Index Page
+title: Fahrenheit 52
 ---
-# Index page
+# Fahrenheit 52
 
-This is your syte. It has <%= pages.length %> page(s).
+"Write a short story every week. It's not possible to write 52 bad short stories in a row" - Ray Bradbury
 
-Navigation:
+I guess we'll find out!
+
+The Stories:
 <% for (const page of pages) { _%>
 * [<%= page.title || pathTo(page) %>](<%= pathTo(page) %>)
 <% } _%>
-
-## TODO
-
-- [X] Generate syte project
-- [ ] Customize generated templates
-- [ ] Deploy!

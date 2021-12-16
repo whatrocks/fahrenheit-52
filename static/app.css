@@ -1,3 +1,94 @@
 * {
   box-sizing: border-box;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+h1 {
+  font-size: 38px;
+}
+
+p {
+  font-size: 28px;
+  line-height: 34px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0 5px;
+}
+
+li {
+  font-size: 28px;
+  padding: 10px;
+  font-weight: 600;
+  color: white;
+}
+
+li:nth-child(1) { background: Indianred}
+li:nth-child(2) { background: lightcoral }
+li:nth-child(3) { background: salmon}
+li:nth-child(4) { background: crimson }
+li:nth-child(5) { background: firebrick}
+li:nth-child(6) { background: tomato }
+li:nth-child(7) { background: orange}
+li:nth-child(8) { background: gold }
+li:nth-child(9) { background: moccasin; color: black;}
+li:nth-child(10) { background: khaki; color: black; }
+li:nth-child(11) { background: lavender; color: black;}
+li:nth-child(12) { background: thistle }
+li:nth-child(13) { background: plum}
+li:nth-child(14) { background: violet }
+li:nth-child(15) { background: fuchsia}
+li:nth-child(16) { background: mediumpurple }
+li:nth-child(17) { background: indigo}
+li:nth-child(18) { background: slateblue }
+li:nth-child(19) { background: lawngreen}
+li:nth-child(20) { background: limegreen }
+li:nth-child(21) { background: palegreen; color: black;}
+li:nth-child(22) { background: springgreen }
+li:nth-child(23) { background: seagreen}
+li:nth-child(24) { background: green }
+li:nth-child(25) { background: olivedrab}
+li:nth-child(26) { background: mediumaquamarine }
+li:nth-child(27) { background: darkseagreen}
+li:nth-child(28) { background: lightseagreen }
+li:nth-child(29) { background: teal}
+li:nth-child(30) { background: cyan; color: black; }
+li:nth-child(31) { background: lightcyan; color: black;}
+li:nth-child(32) { background: aquamarine }
+li:nth-child(33) { background: turquoise}
+li:nth-child(34) { background: darkturquoise }
+li:nth-child(35) { background: cadetblue}
+li:nth-child(36) { background: steelblue }
+li:nth-child(37) { background: powderblue; color: black;}
+li:nth-child(38) { background: skyblue }
+li:nth-child(39) { background: lightskyblue}
+li:nth-child(40) { background: deepskyblue }
+li:nth-child(41) { background: dodgerblue}
+li:nth-child(42) { background: cornflowerblue }
+li:nth-child(43) { background: mediumslateblue}
+li:nth-child(44) { background: royalblue }
+li:nth-child(45) { background: mediumblue}
+li:nth-child(46) { background: navy }
+li:nth-child(47) { background: midnightblue}
+li:nth-child(48) { background: cornsilk; color: black; }
+li:nth-child(49) { background: bisque; color: black;}
+li:nth-child(50) { background: wheat; color: black; }
+li:nth-child(51) { background: sandybrown}
+li:nth-child(52) { background: chocolate }
+li:nth-child(53) { background: sienna }
+
+footer {
+  font-size: 18px;
 }

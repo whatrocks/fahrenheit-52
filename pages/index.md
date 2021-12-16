@@ -6,6 +6,8 @@ title: Fahrenheit 52
 
 *I guess we'll find out!*
 
+Fahrenheit 52 is a weekly writing challenge that I'll be doing throughout 2022. At the end of the week, I'll reach that week's story aloud and release it as an episode in the Fahrenheit 52 podcast feed. If audio's not your thing, you can subscribe to the blog RSS feed instead. My goal for this project is to have fun and practice writing. Thanks for checking it out!
+
 The Stories:
 
 <% for (const num of Array(53).keys()) { _%>
@@ -13,7 +15,7 @@ The Stories:
 <% if(num===page.week){ %>
    * [<%= page.title || pathTo(page) %>](<%= pathTo(page) %>)
  <% } else{ %>  
-   * <%= num %>
+   * <%= "Week " + num %>
 <% } %>
 <% } _%>
 <% } _%>

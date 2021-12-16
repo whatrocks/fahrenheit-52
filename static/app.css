@@ -5,6 +5,11 @@
 
 h1 {
   font-size: 38px;
+  margin: 0;
+}
+
+img {
+  width: 200px;
 }
 
 p {
@@ -12,8 +17,19 @@ p {
   line-height: 34px;
 }
 
+blockquote {
+  border: 1px solid grey;
+  padding: 0px 30px;
+  background-color: lavender;
+}
+
+blockquote  p {
+  padding: 0 !important;
+}
+
 a {
   text-decoration: none;
+  margin: 0;
 }
 
 ul {

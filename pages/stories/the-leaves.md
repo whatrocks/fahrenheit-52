@@ -38,7 +38,7 @@ Pete grumbled, wondering which other nearby tree had ruined his afternoon, and u
 
 As soon as Pete touched the handle of the rake, his hand jumped back - it was freezing cold. The whole rake was. It made no sense, but Pete found some gardening gloves in a bucket and put them on.
 
-Raking wasn't so bad today. Pete made quick progress on the leaves. They were actually kind of beautiful, he thought. Yellow, oragen, red, with hints of summer green. They reminded Pete of L.L. Bean catalogues that he'd sift through while on the downstairs toilet at home. He soon had a big pile of leaves in the parking lot.
+Raking wasn't so bad today. Pete made quick progress on the leaves. They were actually kind of beautiful, he thought. Yellow, orange, red, with hints of summer green. They reminded Pete of L.L. Bean catalogues that he'd sift through while on the downstairs toilet at home. He soon had a big pile of leaves in the parking lot.
 
 Pete rested his rake against the fence behind him. The pile of leaves looked good enough to jump in. He remembered playing in leave piles as a kid with the neighbors across the street, until one of them got run over by a car while in the leaves. Pete had avoided leave piles ever since, mostly as a rule from his parents.
 

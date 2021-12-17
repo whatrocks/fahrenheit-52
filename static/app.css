@@ -10,6 +10,7 @@ h1 {
 
 img {
   width: 60px;
+  margin-right: 10px;
 }
 
 p {
@@ -107,4 +108,15 @@ li:nth-child(53) { background: sienna }
 
 footer {
   font-size: 18px;
+}
+
+.podcasts {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.podcasts p {
+  margin: 0;
 }

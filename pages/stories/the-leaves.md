@@ -2,10 +2,10 @@
 title: The Leaves
 week: 0
 slug: the-leaves
-date: "2021-12-31"
-episode_url: ''
-episode_duration: ''
-episode_length: ''
+date: "2021-12-17"
+episode_url: 'https://whatrocks.github.io/f52a/00.mp3'
+episode_duration: '260'
+episode_length: '5205598'
 episode_summary: Week 00
 episode_explict: 'no'
 ---

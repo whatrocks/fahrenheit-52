@@ -10,6 +10,10 @@ episode_summary: Week 00
 episode_explict: 'no'
 ---
 
+<audio controls="controls">
+  <source type="audio/mp3" src="https://whatrocks.github.io/f52a/00.mp3"></source>
+</audio>
+
 # The Leaves
 
 Pete's least favorite part of working at Last-Chance Video was the yard-work. He had more than enough of that at home, mowing and trimming their lawn constantly, just as his dad ordered.

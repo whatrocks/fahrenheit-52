@@ -8,7 +8,7 @@ title: Fahrenheit 52
 
 Fahrenheit 52 is a weekly writing challenge that I'll be doing throughout 2022. At the end of the week, I'll read that week's story aloud and release it as an episode in the [Fahrenheit 52 podcast feed](/podcast.xml). If audio's not your thing, you can subscribe to the [blog RSS feed](/rss.xml) instead. My goal for this project is to have fun and practice writing. Thanks for checking it out!
 
-The Stories:
+Read the stories:
 
 <% for (const num of Array(53).keys()) { _%>
 <% for (const page of pages.filter(p => p.title !== 'Fahrenheit 52')) { _%>
@@ -19,3 +19,9 @@ The Stories:
 <% } %>
 <% } _%>
 <% } _%>
+
+<!-- Listen to the stories:
+
+[![Podcasts](podcasts.svg)](https://podcasts.apple.com/us/podcast/fahrenheit-52/id1600947555)
+
+[![Overcast](podcasts.svg)](https://overcast.fm/id1600947555) -->

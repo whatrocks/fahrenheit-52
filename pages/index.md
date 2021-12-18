@@ -26,7 +26,7 @@ Fahrenheit 52 is a weekly writing challenge that I'll be doing throughout 2022. 
 
 [![Podcasts](podcasts.svg)](https://podcasts.apple.com/us/podcast/fahrenheit-52/id1600947555)
 
-[![Overcast](overcast.svg)](https://overcast.fm/id1600947555)
+[![Overcast](overcast.svg)](https://overcast.fm/itunes1600947555)
 
 [![Spotify](spotify.png)](https://open.spotify.com/show/0CatFy1udJkcp8OkwwXp4b)
 </div>

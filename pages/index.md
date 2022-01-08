@@ -10,15 +10,16 @@ Fahrenheit 52 is a weekly writing challenge that I'll be doing throughout 2022. 
 
 **Read the stories:**
 
+<ul>
 <% for (const num of Array(53).keys()) { _%>
-<% for (const page of pages.filter(p => p.title !== 'Fahrenheit 52')) { _%>
-<% if(num===page.week){ %>
-   * [<%= page.title || pathTo(page) %>](<%= pathTo(page) %>)
- <% } else{ %>  
-   * <%= "Week " + num %>
+<% var match = pages.find(p => p.week === num); %>
+<% if(match){ %>
+<li><a href=<%=pathTo(match) %>><%=match.title %></a></li>
+<% } else{ %>  
+<li>Week <%=num %></li>
 <% } %>
 <% } _%>
-<% } _%>
+</ul>
 
 **Listen to the stories:**
 
@@ -30,4 +31,3 @@ Fahrenheit 52 is a weekly writing challenge that I'll be doing throughout 2022. 
 
 [![Spotify](spotify.png)](https://open.spotify.com/show/0CatFy1udJkcp8OkwwXp4b)
 </div>
-

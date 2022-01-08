@@ -14,8 +14,6 @@ episode_explict: 'yes'
   <source type="audio/mp3" src="https://whatrocks.github.io/f52a/00.mp3"></source>
 </audio>
 
-# The Leaves
-
 Pete's least favorite part of working at Last-Chance Video was the yard-work. He had more than enough of that at home, mowing and trimming their lawn constantly, just as his dad ordered.
 
 It wasn't that there was much of a yard at Last-Chance. The store was a triangle-shaped strip of property smuggled between Route 35 and Branch Avenue and it was mostly parking lot, dumpster, and a scrawny little apple tree on patchy bit of grass. 

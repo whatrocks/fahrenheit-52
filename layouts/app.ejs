@@ -14,6 +14,9 @@
       <h1><a href="/">Fahrenheit 52</a></h1>
       <hr />
     </header>
+    <%if (title !== "Fahrenheit 52") { %>
+      <h2 class="title"><%= title %></h2>
+    <% } %>
     <%- body %>
     <footer>
       <hr />

@@ -8,6 +8,10 @@ h1 {
   margin: 0;
 }
 
+h2 {
+  font-size: 34px;
+}
+
 img {
   width: 60px;
   margin-right: 10px;
@@ -50,6 +54,10 @@ li {
   padding: 10px;
   font-weight: 600;
   color: white;
+}
+
+li a {
+  color:inherit;
 }
 
 li:nth-child(1) { background: Indianred}

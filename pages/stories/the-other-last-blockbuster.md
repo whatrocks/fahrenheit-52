@@ -7,7 +7,7 @@ episode_url: 'https://whatrocks.github.io/f52a/02.mp3'
 episode_duration: '540'
 episode_length: '10805206'
 episode_summary: Week 02
-episode_explict: 'no'
+episode_explicit: 'yes'
 ---
 
 <audio controls="controls">

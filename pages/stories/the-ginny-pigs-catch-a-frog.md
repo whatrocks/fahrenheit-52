@@ -4,8 +4,8 @@ week: 3
 slug: the-ginny-pigs-catch-a-frog
 date: "2022-01-20"
 episode_url: 'https://whatrocks.github.io/f52a/03.mp3'
-episode_duration: '9285402'
-episode_length: '464'
+episode_length: '9285402'
+episode_duration: '464'
 episode_summary: Week 03
 episode_explicit: 'no'
 ---

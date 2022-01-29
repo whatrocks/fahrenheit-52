@@ -4,8 +4,8 @@ week: 1
 slug: the-key-to-gramercy-park
 date: "2022-01-07"
 episode_url: 'https://whatrocks.github.io/f52a/01.mp3'
-episode_duration: '10245141'
-episode_length: '512'
+episode_length: '10245141'
+episode_duration: '512'
 episode_summary: Week 01
 episode_explicit: 'no'
 ---

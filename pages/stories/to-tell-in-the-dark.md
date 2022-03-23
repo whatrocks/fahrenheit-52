@@ -68,7 +68,7 @@ Will was just happy it wasn't the one about the drum. He didn't even like to thi
 
 > The man shook his head. "Buddy, that's the last thing I need." He turned away from the man trying to sell him a coffin and stepped into the road, where he was hit and instantly killed by a bus. Sometimes, the last thing we need comes sooner than we expect, and that's what scares us most about strange sounds in the dark. The stories in this book, the fourth collection I've gathered, come from people I've met and tales I've discovered in folklore collections in libraries around the country. Are these stories true? Maybe... it's hard to say for certain, but one thing I know for sure is that..."
 
-"Jimmy," said Martha. "Stop. Are you *literally* reading the introduction to the book? Instead of an actual story?"
+"Jimmy," said Maddie. "Stop. Are you *literally* reading the introduction to the book? Instead of an actual story?"
 
 He stopped and flicked the pages back. "Uhh..."
 

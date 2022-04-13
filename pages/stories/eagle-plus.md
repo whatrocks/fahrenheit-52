@@ -14,9 +14,9 @@ episode_explicit: 'no'
   <source type="audio/mp3" src="https://whatrocks.github.io/f52a/15.mp3"></source>
 </audio>
 
-Tonight was the night. Penny and Serg were going to finally watch the movie was talking about.
+Tonight was the night. Penny and Serg were going to finally watch the movie everyone was talking about.
 
-"I can't remember the last time did this," said Penny. "Watched a movie. It's kinda exciting. Aren't you glad we don't have to commit to a whole series?"
+"I can't remember the last time we did this," said Penny. "Watched a movie. It's kinda exciting. Aren't you glad we don't have to commit to a whole series?"
 
 "Yeah. Where's the clicker?" Serg placed two cups of water on the reclaimed redwood coffee table he made at a quarterly team-building event two years ago, the last time he'd seen anyone from work in person.
 

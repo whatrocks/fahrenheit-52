@@ -28,7 +28,7 @@ Volt turns to face the speaker, but says nothing.
 
 "When I was your age a few months ago, I made many grave mistakes, but I learned from them, and now I'm king. I've hoped for that for you, too, son, but its... and you're... don't you have anything to say for yourself, Voltaire?"
 
-Volt wishes he fly away, right there, right now.
+Volt wishes he could fly away, right there, right now.
 
 Volt's curiosity had always got the best of him, even as a larva, when a tumbling accident damaged his wings, preventing Volt from ever flying and, even worse, ever using his bioluminesce.
 

@@ -1,7 +1,7 @@
 ---
-title: Marooned on Mile Rocks
+title: Marooned at Mile Rocks
 week: 18
-slug: Marooned on Mile Rocks
+slug: Marooned at Mile Rocks
 date: "2022-05-05"
 episode_url: 'https://whatrocks.github.io/f52a/18.mp3'
 episode_duration: '758'

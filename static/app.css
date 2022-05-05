@@ -78,7 +78,7 @@ li:nth-child(15) { background: fuchsia}
 li:nth-child(16) { background: mediumpurple }
 li:nth-child(17) { background: indigo}
 li:nth-child(18) { background: slateblue }
-li:nth-child(19) { background: lawngreen}
+li:nth-child(19) { background: lawngreen; color: black;}
 li:nth-child(20) { background: limegreen }
 li:nth-child(21) { background: palegreen; color: black;}
 li:nth-child(22) { background: springgreen }

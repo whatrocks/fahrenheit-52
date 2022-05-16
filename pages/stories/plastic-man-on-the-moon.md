@@ -1,7 +1,7 @@
 ---
 title: Plastic Man on the Moon
 week: 19
-slug: Plastic Man on the Moon
+slug: plastic-man-on-the-moon
 date: "2022-05-09"
 episode_url: 'https://whatrocks.github.io/f52a/19.mp3'
 episode_duration: '272'

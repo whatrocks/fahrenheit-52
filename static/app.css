@@ -13,7 +13,7 @@ h2 {
 }
 
 img {
-  width: 60px;
+  width: 200px;
   margin-right: 10px;
 }
 
@@ -58,6 +58,12 @@ li {
 
 li a {
   color:inherit;
+}
+
+code {
+  font-size: 22px;
+  font-family: monospace;
+  font-weight: 200;
 }
 
 li:nth-child(1) { background: Indianred}

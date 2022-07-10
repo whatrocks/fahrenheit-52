@@ -2,7 +2,7 @@
 title: Writer's Blockchain
 week: 26
 slug: writers-blockchain
-date: "2022-07-30"
+date: "2022-06-30"
 episode_url: 'https://whatrocks.github.io/f52a/26.mp3'
 episode_duration: '872'
 episode_length: '17445533'

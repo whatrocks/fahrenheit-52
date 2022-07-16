@@ -58,7 +58,7 @@ Jo Anne’s kitchen reminded Moray of television shows set in the last century, 
 
 “Just like my grandmam took hers. Okay, sit, sit.”
 
-Jo Ann and Moran faced each other at the vinyl table. Moran took a small sip and coughed.
+Jo Ann and Moray faced each other at the vinyl table. Moray took a small sip and coughed.
 
 “Madam President-Elect, thank you for this tea. It is lovely tea. But we need to urgently get you to a secure location. I’m authorized to let you know that there is a situation emerging. The Lunar State is not accepting the election results. The Pentacle is expected to brief you in twenty minutes.”
 

@@ -97,7 +97,7 @@ li:nth-child(28) { background: lightseagreen }
 li:nth-child(29) { background: teal}
 li:nth-child(30) { background: cyan; color: black; }
 li:nth-child(31) { background: lightcyan; color: black;}
-li:nth-child(32) { background: aquamarine }
+li:nth-child(32) { background: aquamarine; color: black; }
 li:nth-child(33) { background: turquoise}
 li:nth-child(34) { background: darkturquoise }
 li:nth-child(35) { background: cadetblue}

@@ -2,7 +2,7 @@
 title: Thesaurus Green and the Case of the Walkoff Strikeout (Part 1)
 week: 32
 slug: thesaurus-green-part-1.md
-date: "2022-08-10"
+date: "2022-08-09"
 episode_url: 'https://whatrocks.github.io/f52a/32.mp3'
 episode_duration: '266'
 episode_length: '5325239'

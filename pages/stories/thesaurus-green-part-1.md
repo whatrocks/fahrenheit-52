@@ -1,5 +1,5 @@
 ---
-title: Thesaurus Green and the Case of the Walkoff Strikeout (Part 1)
+title: Thesaurus Green and the Case of the Walk-off Strikeout (Part 1)
 week: 32
 slug: thesaurus-green-part-1.md
 date: "2022-08-09"

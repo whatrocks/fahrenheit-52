@@ -1,7 +1,7 @@
 ---
 title: Thesaurus Green and the Case of the Walk-off Strikeout (Part 2)
 week: 33
-slug: thesaurus-green-part-2.md
+slug: thesaurus-green-part-2
 date: "2022-08-18"
 episode_url: 'https://whatrocks.github.io/f52a/33.mp3'
 episode_duration: '324'

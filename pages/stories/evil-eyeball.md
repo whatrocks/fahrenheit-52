@@ -130,7 +130,7 @@ Ben panicked because he couldn't find the eyeball in the shallows. Did it dig it
 
 "Ben, come snorkel. Maria's throwing bits of cake into the water and the fish are going nuts. C'mon!"
 
-Ben held up his hands to run his fingers through his hair and then saw that his left palm was different - a blue tattoo of an eye, the same as the shopkeeper's hand. Then he realized that he wasn't seeing through the eye anymore. *Did it absorb into my palm?* he wondered.
+Ben held up his hands to run his fingers through his hair and then saw that his left palm seemed different - a blue tattoo of an eye, the same as the shopkeeper's hand. Then he realized that he wasn't seeing through the eye anymore. *Did it absorb into my palm?* he wondered.
 
 Ash was right - the fish loved carrot cake. Ben snorkeled with his parents for a while, and climbed up onto the ship. Captain Yiannis helped him up the ladder, then grabbed Ben's left palm. The captain winked and held up his own palm. He had the same tattoo.
 
@@ -144,7 +144,7 @@ The eyeball in Captain Yiannis's hand winked at Ben.
 
 Ben closed his left hand into a fist, then opened his fingers one at a time. Ben's eyeball was back and his tattoo was gone. Ben reversed the move, and the eyeball become a tattoo again.
 
-"Lunch is ready, Ben!" called Maria. "Ash! Rhea!" 
+"Lunch is ready, Ben!" called Maria. "Ash! Rhea!"
 
 Ben wanted to -- *needed to* -- ask Captain Yiannis more questions, but the captain had already returned to the helm where he was rolling another cigarette.
 

@@ -66,6 +66,6 @@ Isn't it obvious? The Genesis Mason is coming. The author of all of this, who se
 
 The Birth is near, M@nticL3.
 
-E is her Prophet.
+E is Her Prophet.
 
 And I am Her Disciple.
